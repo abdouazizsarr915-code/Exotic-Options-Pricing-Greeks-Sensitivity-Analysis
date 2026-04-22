@@ -230,6 +230,11 @@ This project demonstrates:
 * structured research workflow
 
 ---
+## Full Report
+
+For a detailed analysis, including methodology and full results:
+
+ [Download the full report](report/exotic_options_report.pdf)
 
 ## Author
 

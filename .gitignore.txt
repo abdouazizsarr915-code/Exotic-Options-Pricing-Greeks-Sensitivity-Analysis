@@ -1,0 +1,15 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# HTML outputs (too heavy)
+*.html
+*_files/
+
+# Raw data (optional but recommended)
+data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
